@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /images/
+Disallow: /php/
+Disallow: /fonts/
+Disallow: /files/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /images/
+Disallow: /php/
+Disallow: /fonts/
+Disallow: /files/
+Host: iskindev.github.io/ooo-belem-ru
